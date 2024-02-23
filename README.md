@@ -1,1 +1,1 @@
-# Calc_floor_without_math.floor
+Floor calculator without using the math.floor()
